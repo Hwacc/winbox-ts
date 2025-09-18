@@ -17,17 +17,18 @@ This project introduces additional features, improvements, and fixes on top of t
 
 ## 📦 Installation
 
-> npm install your-project-name
+> pnpm add winbox-ts
 
 or
 
-> yarn add your-project-name
+> yarn add winbox-ts
 
 ---
 
 ## 🚀 Usage
 
 * See **WinBox.js** documentation at [WinBox.js](https://nextapps-de.github.io/winbox/)
+
 ---
 
 ## 📄 License
