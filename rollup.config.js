@@ -37,7 +37,6 @@ const basePlugins = [
   copyOnce(),
 ];
 
-// 压缩插件
 const minifyPlugins = [
   terser({
     format: { comments: false },
@@ -45,7 +44,6 @@ const minifyPlugins = [
   }),
 ];
 
-// 基础配置
 const baseConfig = {
   input: 'src/ts/index.ts',
   plugins: basePlugins,
