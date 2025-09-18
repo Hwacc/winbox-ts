@@ -35,7 +35,7 @@ or
 
 This project is licensed under the  **Apache License 2.0** .
 
-* Original code: Copyright © [WinBox.js authors](https://github.com/nextapps-de/winbox/graphs/contributors)
+* Original code: Copyright © [WinBox.js Authors](https://github.com/nextapps-de/winbox/graphs/contributors)
 * Modifications: Copyright © [Hwacc](https://github.com/hwacc)
 
 See the [LICENSE](LICENSE) file for details.
